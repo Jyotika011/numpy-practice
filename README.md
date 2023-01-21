@@ -1,5 +1,6 @@
 # numpy-practice
-problem1
+#Problem1
+
 Write a function so that the columns of the output matrix are powers of the input
 vector
 The order of the powers is determined by the increasing boolean argument. Specifically, when
@@ -9,7 +10,9 @@ of N - i - 1.
 HINT: Such a matrix with a geometric progression in each row is named for Alexandre-
 Theophile Vandermonde.
 
-problem2
+
+#Problem2
+
 Given a sequence of n values x1, x2, ..., xn and a window size k>0, the k-th moving average of the given sequence is defined as follows:
 
 The moving average sequence has n-k+1 elements as shown below.
